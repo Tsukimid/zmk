@@ -13,7 +13,6 @@
 
 / {
     combos {
-        #include "combos.dtsi"
     };
     
     behaviors {
